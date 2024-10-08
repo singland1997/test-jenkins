@@ -19,7 +19,7 @@ export class AppComponent {
       "BEGIN_DATE": ""
     }
   }
-  console.log('testtttt');
+  console.log('testtttt2222');
 
 }
 
