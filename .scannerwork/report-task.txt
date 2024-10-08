@@ -1,0 +1,6 @@
+projectKey=angular-test
+serverUrl=http://localhost:9001
+serverVersion=9.9.6.92038
+dashboardUrl=http://localhost:9001/dashboard?id=angular-test
+ceTaskId=AZGcVbhfONFDSHLVvjgi
+ceTaskUrl=http://localhost:9001/api/ce/task?id=AZGcVbhfONFDSHLVvjgi
