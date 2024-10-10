@@ -14,6 +14,11 @@ pipeline {
                 }
             }
         }
+        stage("Quality gate") {
+            steps {
+                waitForQualityGate abortPipeline: true
+            }
+        }
         stage('Deploy Web') {
             steps {
                 sh "docker compose up -d --build"
