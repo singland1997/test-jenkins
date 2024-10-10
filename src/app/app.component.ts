@@ -13,6 +13,7 @@ export class AppComponent {
   example = {
     "systemId": "test",
     "userName": "test001",
+    "password": "123456",
     "requestData": {
       "OFFCODE": "100400",
       "INC_CODE": "410070",
